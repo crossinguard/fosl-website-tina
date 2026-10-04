@@ -1,14 +1,18 @@
 {
   "seo": {
-    "title": "TinaCMS + Astro",
-    "description": "Welcome to my website!",
-    "siteOwner": "TinaCMS",
-    "logo": "/orange-llama.svg"
+    "title": "Friends of the Sumas Library",
+    "description": "A community-focused group that advocates for the Sumas Library and the larger Whatcom County Library System.",
+    "siteOwner": "Friends of the Sumas Library",
+    "logo": "/fosl/fosl-icon.svg"
   },
   "nav": [
     {
       "title": "Home",
       "link": "/"
+    },
+    {
+      "title": "Events",
+      "link": "/events"
     },
     {
       "title": "Blog",
@@ -17,6 +21,10 @@
     {
       "title": "About",
       "link": "/about"
+    },
+    {
+      "title": "Meetings",
+      "link": "/meetings"
     }
   ],
   "contactLinks": [
@@ -40,5 +48,6 @@
       "link": "https://tina.io/discord",
       "icon": "tabler:brand-discord"
     }
-  ]
+  ],
+  "footerStarfield": false
 }
